@@ -10,4 +10,4 @@
 # See https://www.mediawiki.org/wiki/Manual:Pywikibot/BotPasswords for more
 # information.
 from __future__ import absolute_import, division, unicode_literals
-('user-password.py', BotPassword('', '1212Shohag'))
+('user-password.py', BotPassword('SuggestBot', 'password'))
