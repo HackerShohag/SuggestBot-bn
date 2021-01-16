@@ -1,0 +1,175 @@
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+Traceback (most recent call last):
+  File "db_sql.py", line 137, in <module>
+    update_db(cursor,count)
+  File "db_sql.py", line 35, in update_db
+    cursor.execute(update_com)
+  File "/usr/lib/python3/dist-packages/pymysql/cursors.py", line 166, in execute
+    result = self._query(query)
+  File "/usr/lib/python3/dist-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 852, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 1053, in _read_query_result
+    result.read()
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 1336, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 983, in _read_packet
+    packet_header = self._read_bytes(4)
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 1029, in _read_bytes
+    CR.CR_SERVER_LOST, "Lost connection to MySQL server during query")
+pymysql.err.OperationalError: (2013, 'Lost connection to MySQL server during query')
+CRITICAL: Exiting due to uncaught exception <class 'pymysql.err.OperationalError'>
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+Traceback (most recent call last):
+  File "db_sql.py", line 137, in <module>
+    update_db(cursor,count)
+  File "db_sql.py", line 35, in update_db
+    cursor.execute(update_com)
+  File "/usr/lib/python3/dist-packages/pymysql/cursors.py", line 166, in execute
+    result = self._query(query)
+  File "/usr/lib/python3/dist-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 852, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 1053, in _read_query_result
+    result.read()
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 1336, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 1010, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python3/dist-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1290, 'The MariaDB server is running with the --read-only option so it cannot execute this statement')
+CRITICAL: Exiting due to uncaught exception <class 'pymysql.err.InternalError'>
+sh: 1: webservice: not found
+Traceback (most recent call last):
+  File "db_sql.py", line 137, in <module>
+    update_db(cursor,count)
+  File "db_sql.py", line 35, in update_db
+    cursor.execute(update_com)
+  File "/usr/lib/python3/dist-packages/pymysql/cursors.py", line 166, in execute
+    result = self._query(query)
+  File "/usr/lib/python3/dist-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 852, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 1053, in _read_query_result
+    result.read()
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 1336, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 1010, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python3/dist-packages/pymysql/connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python3/dist-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1290, 'The MariaDB server is running with the --read-only option so it cannot execute this statement')
+CRITICAL: Exiting due to uncaught exception <class 'pymysql.err.InternalError'>
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+sh: 1: webservice: not found
+[Sat Dec  5 20:00:13 2020] there is a job named 'SBDatabase' already active
+[Sun Dec  6 20:00:16 2020] there is a job named 'SBDatabase' already active
+[Mon Dec  7 20:00:13 2020] there is a job named 'SBDatabase' already active
+[Tue Dec  8 20:00:15 2020] there is a job named 'SBDatabase' already active
+[Wed Dec  9 20:00:15 2020] there is a job named 'SBDatabase' already active
+[Thu Dec 10 20:00:11 2020] there is a job named 'SBDatabase' already active
+[Fri Dec 11 20:00:17 2020] there is a job named 'SBDatabase' already active
+[Sat Dec 12 20:00:20 2020] there is a job named 'SBDatabase' already active
+[Sun Dec 13 20:00:21 2020] there is a job named 'SBDatabase' already active
+[Mon Dec 14 20:00:22 2020] there is a job named 'SBDatabase' already active
+[Tue Dec 15 20:00:15 2020] there is a job named 'SBDatabase' already active
+[Wed Dec 16 20:00:16 2020] there is a job named 'SBDatabase' already active
+[Thu Dec 17 20:00:17 2020] there is a job named 'SBDatabase' already active
+[Fri Dec 18 20:00:17 2020] there is a job named 'SBDatabase' already active
+[Sat Dec 19 20:00:20 2020] there is a job named 'SBDatabase' already active
+[Sun Dec 20 20:00:16 2020] there is a job named 'SBDatabase' already active
+[Mon Dec 21 20:00:16 2020] there is a job named 'SBDatabase' already active
+[Tue Dec 22 20:00:13 2020] there is a job named 'SBDatabase' already active
+[Wed Dec 23 20:00:15 2020] there is a job named 'SBDatabase' already active
+[Thu Dec 24 20:00:18 2020] there is a job named 'SBDatabase' already active
+[Fri Dec 25 20:00:19 2020] there is a job named 'SBDatabase' already active
+[Sat Dec 26 20:00:23 2020] there is a job named 'SBDatabase' already active
+[Sun Dec 27 20:00:18 2020] there is a job named 'SBDatabase' already active
+[Mon Dec 28 20:00:14 2020] there is a job named 'SBDatabase' already active
+[Tue Dec 29 20:00:18 2020] there is a job named 'SBDatabase' already active
+[Wed Dec 30 20:00:18 2020] there is a job named 'SBDatabase' already active
+[Thu Dec 31 20:00:18 2020] there is a job named 'SBDatabase' already active
+[Fri Jan  1 20:00:18 2021] there is a job named 'SBDatabase' already active
+[Sat Jan  2 20:00:18 2021] there is a job named 'SBDatabase' already active
+[Sun Jan  3 20:00:13 2021] there is a job named 'SBDatabase' already active
+[Mon Jan  4 20:00:20 2021] there is a job named 'SBDatabase' already active
+[Tue Jan  5 20:00:20 2021] there is a job named 'SBDatabase' already active
+[Wed Jan  6 20:00:16 2021] there is a job named 'SBDatabase' already active
+[Thu Jan  7 20:00:20 2021] there is a job named 'SBDatabase' already active
+[Fri Jan  8 20:00:20 2021] there is a job named 'SBDatabase' already active
+[Sat Jan  9 20:00:17 2021] there is a job named 'SBDatabase' already active
+[Sun Jan 10 20:00:19 2021] there is a job named 'SBDatabase' already active
+[Mon Jan 11 20:00:21 2021] there is a job named 'SBDatabase' already active
+[Tue Jan 12 20:00:15 2021] there is a job named 'SBDatabase' already active
+[Wed Jan 13 20:00:20 2021] there is a job named 'SBDatabase' already active
+[Thu Jan 14 20:00:18 2021] there is a job named 'SBDatabase' already active
+[Fri Jan 15 20:00:16 2021] there is a job named 'SBDatabase' already active

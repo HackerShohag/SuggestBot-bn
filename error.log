@@ -1,0 +1,35 @@
+2020-10-27 07:42:29: (server.c.1464) server started (lighttpd/1.4.53) 
+2020-11-02 11:38:11: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected '<', expecting end of file in /data/project/suggestbotbn/public_html/index.php on line 16
+2020-11-02 11:38:14: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected '<', expecting end of file in /data/project/suggestbotbn/public_html/index.php on line 16
+2020-11-02 11:38:15: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected '<', expecting end of file in /data/project/suggestbotbn/public_html/index.php on line 16
+2020-11-02 11:39:06: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'db' (T_STRING), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 17
+2020-11-02 11:39:20: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 18
+2020-11-02 11:39:22: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 18
+2020-11-02 11:39:23: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 18
+2020-11-02 11:39:25: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 18
+2020-11-02 11:39:27: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 18
+2020-11-02 11:39:32: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 18
+2020-11-02 11:40:11: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 18
+2020-11-02 11:40:12: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 18
+2020-11-02 11:40:14: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 18
+2020-11-02 11:40:16: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 18
+2020-11-02 11:41:51: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected '<', expecting end of file in /data/project/suggestbotbn/public_html/index.php on line 13
+2020-11-02 11:41:54: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected '<', expecting end of file in /data/project/suggestbotbn/public_html/index.php on line 13
+2020-11-02 11:47:08: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /data/project/suggestbotbn/public_html/index.php on line 14
+2020-11-02 11:47:10: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /data/project/suggestbotbn/public_html/index.php on line 14
+2020-11-02 11:47:11: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /data/project/suggestbotbn/public_html/index.php on line 14
+2020-11-02 11:47:13: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /data/project/suggestbotbn/public_html/index.php on line 14
+2020-11-02 11:47:15: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /data/project/suggestbotbn/public_html/index.php on line 14
+2020-11-02 11:47:49: (mod_fastcgi.c.421) FastCGI-stderr: PHP Warning:  link(): File exists in /data/project/suggestbotbn/public_html/index.php on line 13
+2020-11-02 11:49:18: (mod_fastcgi.c.421) FastCGI-stderr: PHP Warning:  link(): No such file or directory in /data/project/suggestbotbn/public_html/index.php on line 15
+2020-11-02 11:49:56: (mod_fastcgi.c.421) FastCGI-stderr: PHP Warning:  link(): No such file or directory in /data/project/suggestbotbn/public_html/index.php on line 15
+2020-11-02 11:50:59: (mod_fastcgi.c.421) FastCGI-stderr: PHP Warning:  link(): No such file or directory in /data/project/suggestbotbn/public_html/index.php on line 15
+2020-11-02 11:52:55: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'db' (T_STRING), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 18
+2020-11-02 11:52:58: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'db' (T_STRING), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 18
+2020-11-02 11:54:16: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'db' (T_STRING), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 7
+2020-11-02 11:54:19: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'db' (T_STRING), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 7
+2020-11-02 11:54:28: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'db' (T_STRING), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 7
+2020-11-02 11:54:30: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'db' (T_STRING), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 7
+2020-11-02 11:54:32: (mod_fastcgi.c.421) FastCGI-stderr: PHP Parse error:  syntax error, unexpected 'db' (T_STRING), expecting ',' or ';' in /data/project/suggestbotbn/public_html/index.php on line 7
+2020-12-11 02:53:10: (server.c.2059) server stopped by UID = 0 PID = 0 
+2020-12-11 02:53:21: (server.c.1464) server started (lighttpd/1.4.53) 

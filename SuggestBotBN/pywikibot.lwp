@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: WMF-Last-Access-Global="19-Oct-2020"; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2020-11-20 00:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: WMF-Last-Access="19-Oct-2020"; path="/"; domain="bn.wikipedia.org"; path_spec; secure; expires="2020-11-20 00:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: loginnotify_prevlogins="2020-6c9ax5-2z21pb1vw6h6iln58uu570lt8yykltj"; path="/"; domain="bn.wikipedia.org"; path_spec; secure; expires="2021-04-17 09:01:44Z"; HttpOnly=None; version=0

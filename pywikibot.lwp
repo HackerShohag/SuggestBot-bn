@@ -1,0 +1,12 @@
+#LWP-Cookies-2.0
+Set-Cookie3: WMF-Last-Access-Global="23-Oct-2020"; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2020-11-24 12:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: centralauth_Token=d86cc0ccbb4ab7606b473286fbe606d7; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2021-10-23 17:46:41Z"; HttpOnly=None; SameSite=None; version=0
+Set-Cookie3: centralauth_User="%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%AC%E0%A6%9F"; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2021-10-23 17:46:41Z"; HttpOnly=None; SameSite=None; version=0
+Set-Cookie3: centralauth_ss0-Token=d86cc0ccbb4ab7606b473286fbe606d7; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2021-10-23 17:46:41Z"; HttpOnly=None; version=0
+Set-Cookie3: centralauth_ss0-User="%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%AC%E0%A6%9F"; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2021-10-23 17:46:41Z"; HttpOnly=None; version=0
+Set-Cookie3: WMF-Last-Access="23-Oct-2020"; path="/"; domain="bn.wikipedia.org"; path_spec; secure; expires="2020-11-24 12:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: bnwikiUserID=226676; path="/"; domain="bn.wikipedia.org"; path_spec; secure; expires="2021-10-23 17:46:41Z"; HttpOnly=None; SameSite=None; version=0
+Set-Cookie3: bnwikiUserName="%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%AC%E0%A6%9F"; path="/"; domain="bn.wikipedia.org"; path_spec; secure; expires="2021-10-23 17:46:41Z"; HttpOnly=None; SameSite=None; version=0
+Set-Cookie3: bnwikiss0-UserID=226676; path="/"; domain="bn.wikipedia.org"; path_spec; secure; expires="2021-10-23 17:46:41Z"; HttpOnly=None; version=0
+Set-Cookie3: bnwikiss0-UserName="%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%AC%E0%A6%9F"; path="/"; domain="bn.wikipedia.org"; path_spec; secure; expires="2021-10-23 17:46:41Z"; HttpOnly=None; version=0
+Set-Cookie3: loginnotify_prevlogins="2020-1nrlk3b-6ffnqt68p3624kcy0abefokat4f9k45.2020-giomw-647gtqb64znwbvctt6qxz4u1dj9rd2g"; path="/"; domain="bn.wikipedia.org"; path_spec; secure; expires="2021-04-21 17:46:41Z"; HttpOnly=None; version=0

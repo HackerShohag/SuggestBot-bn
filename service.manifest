@@ -1,0 +1,7 @@
+# This file is used by Toolforge infrastructure.
+# Please do not edit manually at this time.
+# Tue Oct 27 07:42:30 2020
+backend: kubernetes
+distribution: debian
+version: 4
+web: php7.3
