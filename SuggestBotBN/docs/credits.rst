@@ -1,6 +1,0 @@
-Credits
-=======
-
-.. include:: ../CREDITS
-   :literal:
-
